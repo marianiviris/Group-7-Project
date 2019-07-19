@@ -3,7 +3,7 @@
 Hi! Thank you for letting us work on this project. 
 
 
-You can find our work no this documents:
+You can find our work on these documents:
 
 Project_Master.ipynb = Exploration & Cleanup ||
 Project_Clean.ipynb = Final Data Analysis ||
