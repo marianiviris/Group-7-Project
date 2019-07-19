@@ -6,7 +6,6 @@ Hi! Thank you for letting us work on this project.
 You can find our work no this documents:
 
 Project_Master.ipynb = Exploration & Cleanup
-
 Project_Clean.ipynb = Final Data Analysis
 
 Proyecto_Uno.pptx = Presentation
